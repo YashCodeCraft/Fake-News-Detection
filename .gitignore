@@ -1,0 +1,25 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore dataset files if you don't want to push them to Git
+*.csv
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and output files
+*.log
+*.out
+*.err

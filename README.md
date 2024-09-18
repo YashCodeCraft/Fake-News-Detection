@@ -33,6 +33,15 @@ Ensure you have the following Python packages installed:
 ```bash
 pip install pandas nltk scikit-learn seaborn matplotlib
 ```
+or 
+
+use requirements.txt file to install resources
+```
+bash
+pip install -r requirements.txt
+```
+This will create a requirements.txt file with all the packages and their specific versions installed in your environment.
+
 ## Running the Code
 1. Prepare the Dataset: Save your dataset in CSV format to your working directory. Update the file path in the main.py script as needed.
 

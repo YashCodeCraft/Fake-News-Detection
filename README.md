@@ -36,8 +36,7 @@ pip install pandas nltk scikit-learn seaborn matplotlib
 or 
 
 use requirements.txt file to install resources
-```
-bash
+```bash
 pip install -r requirements.txt
 ```
 This will create a requirements.txt file with all the packages and their specific versions installed in your environment.
